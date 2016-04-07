@@ -1,10 +1,5 @@
 do local _ = {
-  about_text = "Teleseed v4\nAn advanced administration bot based on TG-CLI written in Lua\n\nhttps://github.com/SEEDTEAM/TeleSeed\n\nAdmins\n@iwals [Founder]\n@imandaneshi [Developer]\n@POTUS [Developer]\n@seyedan25 [Manager]\n@aRandomStranger [Admin]\n\nSpecial thanks to\nawkward_potato\nSiyanew\ntopkecleon\nVamptacus\n\nOur channels\n@teleseedch [English]\n@iranseed [persian]\n\nOur website \nhttp://teleseed.seedteam.org/\n",
-  disabled_plugin_on_chat = {
-    ["channel#id1012470110"] = {
-      Reply = false
-    }
-  },
+  about_text = "\n",
   enabled_plugins = {
     "admin",
     "onservice",
@@ -50,11 +45,9 @@ do local _ = {
     data = "data/moderation.json"
   },
   sudo_users = {
-    110626080,
-    103649648,
-    111020322,
-    0,
-    113155685
+    113155685,
+	118424930,
+	0
   }
 }
 return _
