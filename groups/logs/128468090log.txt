@@ -1,0 +1,14 @@
+[ Tue Mar 29 08:54:36 2016 ]=>  (_͠°_͟ʖ_͡°)_ÂＬＭＮÃＳEＲY_Vip_||_TNT_||_Bøøm_Tękšâś✓ [113155685] used /id 
+ 
+[ Tue Mar 29 09:03:22 2016 ]=>  (_͠°_͟ʖ_͡°)_ÂＬＭＮÃＳEＲY_Vip_||_TNT_||_Bøøm_Tękšâś✓ [113155685] used /get plugins
+ 
+[ Wed Mar 30 23:12:52 2016 ]=>  (_͠°_͟ʖ_͡°)_ÂＬＭＮÃＳEＲY_Vip_||_TNT_||_Bøøm_Tękšâś✓ [113155685] attempted to add group [ 128468090 ]
+ 
+[ Wed Mar 30 23:12:58 2016 ]=>  (_͠°_͟ʖ_͡°)_ÂＬＭＮÃＳEＲY_Vip_||_TNT_||_Bøøm_Tękšâś✓ [113155685] attempted to add group [ 128468090 ]
+ 
+[ Wed Mar 30 23:13:07 2016 ]=>  log file created by owner/support/admin
+ 
+[ Wed Mar 30 23:13:13 2016 ]=>  ( ͠° ͟ʖ ͡°) ÂＬＭＮÃＳEＲY Vip || TNT || Bøøm Tękšâś✓ [113155685] added Log_SuperGroup
+ 
+[ Wed Mar 30 23:13:20 2016 ]=>  (_͠°_͟ʖ_͡°)_ÂＬＭＮÃＳEＲY_Vip_||_TNT_||_Bøøm_Tękšâś✓ [113155685] attempted to add group [ 128468090 ]
+ 
